@@ -137,6 +137,9 @@ svg {
   color: var(--white);
 }
 
+*{
+ transition: all 0.3s; 
+}
 body {
   background: var(--background2);
   overflow-x: hidden;
